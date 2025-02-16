@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreenidhi10&label=Profile%20views&color=0e75b6&style=flat" alt="shreenidhi10" /> </p>
 
-- 🌱 I’m currently Intern at **SmartX Technologies**
+- 🌱 I’m currently Working as Intern at **SmartX Technologies**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/shrinidhi-hathwar-9a728a269](www.linkedin.com/in/shrinidhi-hathwar-9a728a269)
 
